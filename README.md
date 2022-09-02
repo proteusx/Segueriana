@@ -21,7 +21,7 @@ French Academy. The collection was first published by [Immanuel
 Bekker](https://en.wikipedia.org/wiki/August_Immanuel_Bekker#cite_ref-2) in 1814.
 
 
-**Segueriana for GoldenDict** is a script converts the text of Lexica Segueriana, taken from the [TLG
+**Segueriana** is a script that converts the text of Lexica Segueriana, taken from the [TLG
 CDROM](http://stephanus.tlg.uci.edu/tlgauthors/cd.authors.php),
 into a ABBYY Lingvo **.dsl** dictionary file that can be used with digital
 dictionary lookup program [GoldenDict]( http://goldendict.org/), so that the
@@ -30,7 +30,7 @@ Lexica Segueriana  can be searched like any other modern dictionary.
 ## USAGE
 
 
-- You need to have:
+- To run this script you need to have:
 
     - The TLG CDROM or its files.  This CDROM is no longer available for sale,
       but it can be easily obtained via bit torrents.
